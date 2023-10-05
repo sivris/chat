@@ -5,7 +5,7 @@ import threading
 class Client:
     def __init__(self) -> None:
         # Define the host and the port
-        self.HOST = '192.168.1.8'
+        self.HOST = socket.gethostbyname(socket.gethostname())
         self.PORT = 9090
 
         # Client choosing nickname
