@@ -21,6 +21,6 @@ To install the chat app, simply download the chat_app.zip and unzip it in your d
 * To connect to your server as client simply open the join_chat folder and run the join_chat.exe. Pick your nickname and you're ready!
 * To connect to the server from another device you only need to install the join_chat folder and run the join_chat.exe
 
-  Once connected, you can start chatting with other users by typing messages into the terminal and pressing Enter.
+Once connected, you can start chatting with other users by typing messages into the terminal and pressing Enter.
 
-  The code for the chat app is located in the src directory.
+The code for the chat app is located in the src directory.
